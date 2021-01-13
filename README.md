@@ -1,2 +1,2 @@
 # TinyImageNet-Classifier
-A simple classification assignment for an internship
+A simple assignment for an internship
